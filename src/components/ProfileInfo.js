@@ -1,6 +1,6 @@
 import React from 'react'
 import './ProfileInfo.css'
-import profilePicture from '../resources/archit-anghan-image.jpeg';
+import profilePicture from '../resources/archit-anghan-image.jpg';
 import { SocialIcon } from 'react-social-icons';
 import Button from "react-bootstrap/Button";
 import PdfResume from '../resources/Archit_Anghan_Resume.pdf';
