@@ -5,6 +5,7 @@ import Tab from "react-bootstrap/Tab"
 import AboutMe from './AboutMe';
 import WorkExperience from './WorkExperience';
 import Skills from './Skills';
+import Projects from './Projects';
 import Education from './Education';
 import VolunteerExperience from './VolunteerExperience';
 import Reference from './Reference'
@@ -19,6 +20,10 @@ function ProfileDetails() {
 
                 <Tab title="Work Experience" eventKey="work-experience">
                     <WorkExperience/>
+                </Tab>
+
+                <Tab title="Projects" eventKey="projects">
+                    <Projects/>
                 </Tab>
 
                 <Tab title="Skills" eventKey="skills">
