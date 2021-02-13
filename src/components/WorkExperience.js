@@ -9,24 +9,27 @@ function WorkExperience() {
                 <div className="data">
                     <b>Software Tester (5620 SAM) co-op 5GK (Sep 2019-Dec 2019)</b>
                     <p>NOKIA, Ottawa, ON</p>
-                    <ul>
-                        <li>
-                            Worked on Web-based technologies, Node.js with testing framework Mocha, web automation components Selenium, webdriverio on Red Hat Enterprise Linux.
+                    <ul>	
+                    <li>
+                        Worked on Web-based technologies, Node.js with testing framework Mocha, web automation components Selenium, WebDriverIO on Red Hat Enterprise Linux.
                     </li>
-                        <li>
-                            Development and execution of test plans to validate functional aspects of the product.
+                    <li>
+                        Development and execution of test plans to validate functional aspects of the product.
                     </li>
-                        <li>
-                            Find bugs and errors in Nokia’s Web application and write code to resolve those bugs in an automation-based test environment.
+                    <li>
+                        Built high-quality test strategies, test plans, and test cases in RHEL.
                     </li>
-                        <li>
-                            Work on Fault Management, Network Supervision, Service Supervision, and Supervision Manager web apps in NSP (Network Services Platform) Launchpad.
+                    <li>
+                        Find bugs and errors in Nokia’s Web application and write code to resolve those bugs in an automation-based test environment using bug and issue tracking functionality of JIRA.
                     </li>
-                        <li>
-                            Develop automated tests that exercise product functionally and work on documentation of test results.
+                    <li>
+                        Worked on Fault Management, Network Supervision, Service Supervision, and Supervision Manager web apps in NSP (Network Services Platform) Launchpad.
                     </li>
-                        <li>
-                            Maintain features of the web application by doing regression testing, responsible to keep code update, and add test methods by interacting with team masters for overall system enhancement.
+                    <li>
+                        Developed automated tests that exercise product functionally and worked on documentation of test results.
+                    </li>
+                    <li>
+                        Maintained features of the web application by doing regression testing, responsible to keep code update, and add test methods by interacting with team masters for overall system enhancement.
                     </li>
                     </ul>
 

@@ -10,7 +10,8 @@ function Education() {
                     <ul>
                         <li>
                             <b>Computer Programmer (May 2018-April 2020)</b><br></br>
-                            Algonquin College of Applied Arts and Technology, Ottawa, ON
+                            Algonquin College of Applied Arts and Technology, Ottawa, ON<br></br>
+                            GPA: 3.23 out of 4
                         </li>
                     </ul>
                 </Alert>
