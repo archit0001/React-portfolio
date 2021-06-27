@@ -7,7 +7,7 @@ import WorkExperience from './WorkExperience';
 import Skills from './Skills';
 import Projects from './Projects';
 import Education from './Education';
-import VolunteerExperience from './VolunteerExperience';
+import Certification from './Certification';
 import Reference from './Reference'
 
 function ProfileDetails() {
@@ -34,8 +34,8 @@ function ProfileDetails() {
                     <Education/>
                 </Tab>
 
-                <Tab title="Volunteer Experience" eventKey="volunteer-experience">
-                    <VolunteerExperience/>
+                <Tab title="Certification" eventKey="certification-experience">
+                    <Certification/>
                 </Tab>
 
                 <Tab title="Reference" eventKey="reference">

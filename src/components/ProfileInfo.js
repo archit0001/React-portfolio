@@ -11,9 +11,9 @@ function ProfileInfo() {
             {/* profile picture, email, phone number, github logo, linkedin logo */}
             <img src={profilePicture} className="profile-picture"></img>
             <div className="name">Archit Anghan</div>
-            <code className="email">architanghan32@gmail.com</code>
-            <br></br><code className="email">613-222-9656</code>
-            <div className="button-container">
+            <div className="email">architanghan32@gmail.com</div>
+            <div className="email">613-222-9656</div>
+            <br></br><div className="button-container">
                 <Button variant="outline-primary" href={PdfResume} target="PDF Resume"> Resume In Pdf</Button>
             </div>
             

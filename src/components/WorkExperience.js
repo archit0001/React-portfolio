@@ -14,10 +14,7 @@ function WorkExperience() {
                         Worked on Web-based technologies, Node.js with testing framework Mocha, web automation components Selenium, WebDriverIO on Red Hat Enterprise Linux.
                     </li>
                     <li>
-                        Development and execution of test plans to validate functional aspects of the product.
-                    </li>
-                    <li>
-                        Built high-quality test strategies, test plans, and test cases in RHEL.
+                        Built high-quality test strategies, test plans, and test cases in the RHEL environment.
                     </li>
                     <li>
                         Find bugs and errors in Nokia’s Web application and write code to resolve those bugs in an automation-based test environment using bug and issue tracking functionality of JIRA.
